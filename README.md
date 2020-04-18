@@ -1,0 +1,2 @@
+# Startet
+Learning about git
